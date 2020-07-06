@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 2%;
+    margin-bottom: 5%;
 }
 .orange-bg{
     background-color: #feeae9;
@@ -18,4 +18,37 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+}
+.watch, .bag, .shoes1{
+    padding: 10px 30px;
+    color: white;
+    border-radius: 10px;
+}
+.watch{
+    background-color: orange;
+}
+.bag{
+    background-color: rgb(77, 173, 77);
+}
+.shoes1{
+    background-color: blue;
+}
+.categroes img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 10px lightgray;
+    border-radius: 10px;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: rgb(143, 142, 142);
+}
+.footer-finish{
+    font-size: 16px;
+    text-align: center;
+    
 }
